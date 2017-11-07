@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"进来啦！！！！");
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 
